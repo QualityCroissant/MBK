@@ -1,4 +1,4 @@
-/* BFC -- A simple Brainfuck compiler
+/* MBK - A tool for putting books into Minecraft
  * Copyright (C) 2024 Finn Chipp
  *
  *  This program is free software: you can redistribute it and/or modify
